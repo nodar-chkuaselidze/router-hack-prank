@@ -1,0 +1,19 @@
+{
+	"ImportPath": "github.com/nodar-chkuaselidze/router-hack",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gizak/termui",
+			"Rev": "551f2e7b8415377bac28e3001882b94fc625aff2"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-runewidth",
+			"Comment": "travisish-38-gd96d1bd",
+			"Rev": "d96d1bd051f2bd9e7e43d602782b37b93b1b5666"
+		},
+		{
+			"ImportPath": "github.com/nsf/termbox-go",
+			"Rev": "9554a56625563e80bffd06e41fb525b363b01943"
+		}
+	]
+}
